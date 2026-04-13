@@ -235,6 +235,6 @@ workshop_booking/
 └── README.md
 ```
 
----
 
-*Submission by — [your name] | Contact: pythonsupport@fossee.in*
+
+
